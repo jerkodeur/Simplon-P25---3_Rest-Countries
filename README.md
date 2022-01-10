@@ -27,7 +27,7 @@ Les données sur les pays proviennent de l’API publique et gratuite Rest count
 • HTML 5, JavaScript (ES6)
 • Bootstrap 5 (aucun style personnel, 100% Bootstrap)
 ### Ressources
-En gras les ressources principales pour ce brief.
+En gras les ressources principales pour ce brief.  
 • __https://restcountries.com/__  
 • __https://jsonformatter.curiousconcept.com/__  
 • __https://getbootstrap.com/docs/5.0/getting-started/introduction/__  
