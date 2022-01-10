@@ -28,19 +28,19 @@ Les données sur les pays proviennent de l’API publique et gratuite Rest count
 • Bootstrap 5 (aucun style personnel, 100% Bootstrap)
 ### Ressources
 En gras les ressources principales pour ce brief.
-• __https://restcountries.com/__
-• __https://jsonformatter.curiousconcept.com/__
-• __https://getbootstrap.com/docs/5.0/getting-started/introduction/__
-• __https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach__
-• https://developer.mozilla.org/fr/docs/Web/API/Window/load_event
-• __https://dmitripavlutin.com/javascript-fetch-async-await/__
-• https://developer.mozilla.org/fr/docs/Web/API/Fetch_API/Using_Fetch
-• https://developer.mozilla.org/fr/docs/Learn/JavaScript/Asynchronous/Async_await#r%C3%A9%C3%A9criture_du_code_des_promesses_avec_asyncawait
-• __https://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html__
-• https://developer.mozilla.org/fr/docs/Learn/JavaScript/Asynchronous/Introducing
-• https://developer.mozilla.org/fr/docs/Web/API/Document_Object_Model
-• https://developer.chrome.com/docs/devtools/dom/
-• __https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Template_literals__
+• __https://restcountries.com/__  
+• __https://jsonformatter.curiousconcept.com/__  
+• __https://getbootstrap.com/docs/5.0/getting-started/introduction/__  
+• __https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach__  
+• https://developer.mozilla.org/fr/docs/Web/API/Window/load_event  
+• __https://dmitripavlutin.com/javascript-fetch-async-await/__  
+• https://developer.mozilla.org/fr/docs/Web/API/Fetch_API/Using_Fetch  
+• https://developer.mozilla.org/fr/docs/Learn/JavaScript/Asynchronous/Async_await#r%C3%A9%C3%A9criture_du_code_des_promesses_avec_asyncawait  
+• __https://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html__  
+• https://developer.mozilla.org/fr/docs/Learn/JavaScript/Asynchronous/Introducing  
+• https://developer.mozilla.org/fr/docs/Web/API/Document_Object_Model  
+• https://developer.chrome.com/docs/devtools/dom/  
+• __https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Template_literals__  
 ### Livrables
 • Le projet partagé dans un nouveau repository « GitHub » (public)
 • Le projet doit être déployé dans « GitHub pages »
