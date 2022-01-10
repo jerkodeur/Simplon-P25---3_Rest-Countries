@@ -8,6 +8,9 @@
     - [Livrables](#livrables)
     - [Modalités d’évaluation](#modalités-dévaluation)
 ## CDA & DWWM – Brief – « Rest countries – Partie 1 »
+
+#### Tester le site: https://jerkodeur.github.io/Simplon-P25---3_Rest-Countries/
+
 ### Référentiels de compétences
 Les compétences professionnelles du référentiel « CDA » couvertes par ce projet sont :
 • __AT1 / CP4__ : Développer la partie frontend d’une interface utilisateur web (Imiter)
