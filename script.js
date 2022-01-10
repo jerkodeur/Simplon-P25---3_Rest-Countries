@@ -12,4 +12,4 @@ const render = async () => {
   document.querySelector("#countries").innerHTML = formatCountriesList;
 };
 
-render();
+window.addEventListener("load", render());
