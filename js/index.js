@@ -1,6 +1,6 @@
 const render = async () => {
   const response = await fetch(
-    "https://restcountries.com/v3/region/europe?fields=name"
+    "https://restcountries.com/v3.1/region/europe?fields=name"
   ).then((datas) => datas.json());
 
   let nameOfCountries = "";
