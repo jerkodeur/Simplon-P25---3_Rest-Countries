@@ -9,7 +9,7 @@
 ----
 __Tester le site:__ https://jerkodeur.github.io/Simplon-P25---3_Rest-Countries/  
 ---
-![](https://www.unitag.io/qreator/generate?crs=Ppv8rOENN3V1lAwTz82zPh3poO83%252FIJ9nI4lZ2WxB18UOHi8KXRVoaX73H5rOXIWDg3fgB237JTYxFgwtulCNe%252ByNnIDRrt5A6dIvA92CFevmt%252FtVV7KoStswHdYxXroyKuTbH4wf9tWu1mvEQoqL%252BumDhzERwb21Xaso%252Fnibsk%253D&crd=fhOysE0g3Bah%252BuqXA7NPQ87MoHrnzb%252BauJLKoOEbJsrazAIXlfSgeDFdD2GE9jcbkv8lzmJiIMbvxjrNt0qX6g%253D%253D)
+<a href='https://www.unitag.io/qrcode'><img src='https://www.unitag.io/qreator/generate?crs=Ppv8rOENN3V1lAwTz82zPpEYgrTpeQPpAxSJGcmyf1zqoOPAufHCjI4ccbj8leQIffpWitL50YSc%252FcPVAqhvQcY8L%252ByEXXE2GKn8SsxpZk4WZaQp7PKE7yfTgH2P3e9CKW00WL5%252F1cMS7FElOQtZuX8mpOG0vfXH1R11ooGrRdY%253D&crd=fhOysE0g3Bah%252BuqXA7NPQ87MoHrnzb%252BauJLKoOEbJsqZPdYjYK4DRs6E50xlokA%252FWe4M%252FtSCyO82hPzRS%252BspMg%253D%253D' alt='QR Code'/></a>
 ----
 ### Référentiels de compétences
 > Compétences professionnelles du référentiel « CDA »
