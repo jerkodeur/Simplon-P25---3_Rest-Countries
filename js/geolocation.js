@@ -1,4 +1,7 @@
 const render = async () => {
+  const currentUrl = window.location.search;
+  const cca2 = new URLSearchParams(currentUrl).get("cca2") ?? "FR";
+
   const europeeanCountries = await getApiData(
     "https://restcountries.com/v3.1/region/europe?fields=name,cca2"
   );
@@ -11,7 +14,7 @@ const render = async () => {
 
   const el = document.querySelector("#countryList");
   el.innerHTML = nameOfCountries;
-  el.value = "FR";
+  el.value = cca2;
 
   updateMap();
 };

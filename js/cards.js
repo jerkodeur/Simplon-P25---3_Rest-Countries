@@ -1,6 +1,6 @@
 const render = async () => {
   const response = await fetch(
-    "https://restcountries.com/v3.1/region/europe?fields=name,capital,maps,flags"
+    "https://restcountries.com/v3.1/region/europe?fields=name,capital,maps,flags,cca2"
   ).then((datas) => datas.json());
 
   let countriesCards = "";
@@ -13,7 +13,7 @@ const render = async () => {
                 </a>
                 <div class="card-body">
                     <h5 class="card-title">${country.name.official}</h5>
-                    <h6 class="card-text">${country.capital[0]}</h6>
+                    <h6 class="card-text"><a href="./geolocation.html?cca2=${country.cca2}">${country.capital[0]}</a></h6>
                 </div>
             </div>
         </div>
